@@ -1,0 +1,175 @@
+{
+    "indLibelle": "Population additionnelle moyenne  : 1960 - 2050",
+    "metaData": {
+        "decription": null,
+        "periodicite": "10 ans",
+        "unite": "En milliers",
+        "source": "HCP-CERED"
+    },
+    "periodes": [
+        "1960-1970 ",
+        "1970-1980 ",
+        "1980-1990 ",
+        "1990-2000 ",
+        "2000-2010 ",
+        "2010-2020 ",
+        "2020-2030 ",
+        "2030-2040 ",
+        "2040-2050 "
+    ],
+    "levels": [
+        {
+            "serie": {
+                "data": [
+                    {
+                        "valeur": "332",
+                        "annee": "1960-1970 "
+                    },
+                    {
+                        "valeur": "443",
+                        "annee": "1970-1980 "
+                    },
+                    {
+                        "valeur": "479",
+                        "annee": "1980-1990 "
+                    },
+                    {
+                        "valeur": "412",
+                        "annee": "1990-2000 "
+                    },
+                    {
+                        "valeur": "390",
+                        "annee": "2000-2010 "
+                    },
+                    {
+                        "valeur": "377",
+                        "annee": "2010-2020 "
+                    },
+                    {
+                        "valeur": "338",
+                        "annee": "2020-2030 "
+                    },
+                    {
+                        "valeur": "257",
+                        "annee": "2030-2040 "
+                    },
+                    {
+                        "valeur": "166",
+                        "annee": "2040-2050 "
+                    }
+                ],
+                "libelle": "Total"
+            },
+            "rang-level": 1
+        },
+        {
+            "serie": {
+                "data": [
+                    {
+                        "valeur": "178",
+                        "annee": "1960-1970 "
+                    },
+                    {
+                        "valeur": "280",
+                        "annee": "1970-1980 "
+                    },
+                    {
+                        "valeur": "379",
+                        "annee": "1980-1990 "
+                    },
+                    {
+                        "valeur": "333",
+                        "annee": "1990-2000 "
+                    },
+                    {
+                        "valeur": "358",
+                        "annee": "2000-2010 "
+                    },
+                    {
+                        "valeur": "412",
+                        "annee": "2010-2020 "
+                    },
+                    {
+                        "valeur": "388",
+                        "annee": "2020-2030 "
+                    },
+                    {
+                        "valeur": "313",
+                        "annee": "2030-2040 "
+                    },
+                    {
+                        "valeur": "229",
+                        "annee": "2040-2050 "
+                    }
+                ],
+                "libelle": "Urbain"
+            },
+            "rang-level": 2
+        },
+        {
+            "serie": {
+                "data": [
+                    {
+                        "valeur": "154",
+                        "annee": "1960-1970 "
+                    },
+                    {
+                        "valeur": "163",
+                        "annee": "1970-1980 "
+                    },
+                    {
+                        "valeur": "100",
+                        "annee": "1980-1990 "
+                    },
+                    {
+                        "valeur": "79",
+                        "annee": "1990-2000 "
+                    },
+                    {
+                        "valeur": "32",
+                        "annee": "2000-2010 "
+                    },
+                    {
+                        "valeur": "-35",
+                        "annee": "2010-2020 "
+                    },
+                    {
+                        "valeur": "-50",
+                        "annee": "2020-2030 "
+                    },
+                    {
+                        "valeur": "-56",
+                        "annee": "2030-2040 "
+                    },
+                    {
+                        "valeur": "-63",
+                        "annee": "2040-2050 "
+                    }
+                ],
+                "libelle": "Rural"
+            },
+            "rang-level": 3
+        }
+    ],
+    "dimensions": [
+        {
+            "libelle": "Milieu",
+            "h": false,
+            "modalites": [
+                {
+                    "libelle": "Total",
+                    "rang": 1
+                },
+                {
+                    "libelle": "Urbain",
+                    "rang": 2
+                },
+                {
+                    "libelle": "Rural",
+                    "rang": 3
+                }
+            ],
+            "rang": 1
+        }
+    ]
+}
